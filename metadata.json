@@ -1,0 +1,5 @@
+{
+  "name": "GitDeploy AI",
+  "description": "A powerful tool to deploy HTML snippets and Node.js ZIP files directly to GitHub Pages with AI-powered troubleshooting.",
+  "requestFramePermissions": []
+}
